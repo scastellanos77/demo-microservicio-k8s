@@ -1,0 +1,7 @@
+cl/srcei/oficinainternet/gestionstock/repositories/StockRepository.class
+cl/srcei/oficinainternet/gestionstock/model/Stock.class
+cl/srcei/oficinainternet/gestionstock/services/StockService.class
+cl/srcei/oficinainternet/gestionstock/exceptions/StockNotFoundException.class
+cl/srcei/oficinainternet/gestionstock/resources/StockResource.class
+cl/srcei/oficinainternet/gestionstock/config/DataGenerator.class
+cl/srcei/oficinainternet/gestionstock/GestionStockApplication.class

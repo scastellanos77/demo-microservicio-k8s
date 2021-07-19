@@ -1,0 +1,7 @@
+/home/simon/app-ms/gestionstock/src/main/java/cl/srcei/oficinainternet/gestionstock/model/Stock.java
+/home/simon/app-ms/gestionstock/src/main/java/cl/srcei/oficinainternet/gestionstock/services/StockService.java
+/home/simon/app-ms/gestionstock/src/main/java/cl/srcei/oficinainternet/gestionstock/config/DataGenerator.java
+/home/simon/app-ms/gestionstock/src/main/java/cl/srcei/oficinainternet/gestionstock/repositories/StockRepository.java
+/home/simon/app-ms/gestionstock/src/main/java/cl/srcei/oficinainternet/gestionstock/exceptions/StockNotFoundException.java
+/home/simon/app-ms/gestionstock/src/main/java/cl/srcei/oficinainternet/gestionstock/resources/StockResource.java
+/home/simon/app-ms/gestionstock/src/main/java/cl/srcei/oficinainternet/gestionstock/GestionStockApplication.java
