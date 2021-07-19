@@ -1,0 +1,17 @@
+version: '2'
+services:
+  comprafront:
+    image: scastell77/oficomprafront:1.0
+    ports:
+     - "8010:8010"
+    links:
+      - catalogoproducto
+      - gestionstock
+  catalogoproducto:
+    image: scastell77/oficatalogoproducto:1.0
+    ports:
+     - "8020:8020"
+  gestionstock:
+    image: scastell77/ofigestionstock:1.0
+    ports:
+     - "8030:8030"

@@ -1,0 +1,17 @@
+version: '2'
+services:
+  comprafront:
+    build: comprafront
+    ports:
+     - "8010:8010"
+    links:
+      - catalogoproducto
+      - gestionstock
+  catalogoproducto:
+    build: catalogoproducto
+    ports:
+     - "8020:8020"
+  gestionstock:
+    build: gestionstock
+    ports:
+     - "8030:8030"
