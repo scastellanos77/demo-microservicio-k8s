@@ -1,0 +1,6 @@
+cl/srcei/oficinainternet/catalogoproducto/ProductoServiceApplication.class
+cl/srcei/oficinainternet/catalogoproducto/healthchecks/BasicHealthCheck.class
+cl/srcei/oficinainternet/catalogoproducto/services/ProductoService.class
+cl/srcei/oficinainternet/catalogoproducto/resources/ProductoResource.class
+cl/srcei/oficinainternet/catalogoproducto/configuration/ProductoServiceConfiguration.class
+cl/srcei/oficinainternet/catalogoproducto/model/Producto.class

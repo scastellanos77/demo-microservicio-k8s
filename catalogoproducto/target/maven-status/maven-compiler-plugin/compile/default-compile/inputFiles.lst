@@ -1,0 +1,6 @@
+/home/simon/app-ms/catalogoproducto/src/main/java/cl/srcei/oficinainternet/catalogoproducto/services/ProductoService.java
+/home/simon/app-ms/catalogoproducto/src/main/java/cl/srcei/oficinainternet/catalogoproducto/ProductoServiceApplication.java
+/home/simon/app-ms/catalogoproducto/src/main/java/cl/srcei/oficinainternet/catalogoproducto/model/Producto.java
+/home/simon/app-ms/catalogoproducto/src/main/java/cl/srcei/oficinainternet/catalogoproducto/healthchecks/BasicHealthCheck.java
+/home/simon/app-ms/catalogoproducto/src/main/java/cl/srcei/oficinainternet/catalogoproducto/resources/ProductoResource.java
+/home/simon/app-ms/catalogoproducto/src/main/java/cl/srcei/oficinainternet/catalogoproducto/configuration/ProductoServiceConfiguration.java
